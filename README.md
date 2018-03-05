@@ -1,7 +1,7 @@
 # 前端通用中转API接口工程
 
 
-[前端通用中转API接口工程NPM安装地址](https://www.npmjs.com/package/node-proxy-api)
+[前端通用中转API接口工程NPM安装地址](https://github.com/zzm1988/node-proxy-api)
 
 工程简介
 
